@@ -1,7 +1,7 @@
 # Blueberries ![GitHub follow](https://img.shields.io/github/followers/ficanovak?label=Follow&style=social) ![GitHub repo size](https://img.shields.io/github/repo-size/ficanovak/blueberries.team) ![GitHub](https://img.shields.io/github/license/ficanovak/blueberries.team) ![GitHub](https://img.shields.io/website?down_color=red&down_message=offline&up_color=green&up_message=online&url=http%3A%2F%2Fblueberries.team%2F)
 
 
- ## Static Website Presentation
+ ## Static Website Presentation & Branding
  
  A static web presentation of a blueberries farm located in Central Serbia.
  
