@@ -1,0 +1,41 @@
+#poruci {
+    height: 20em !important;
+}
+
+#telefon {
+    font-size: normal;
+}
+
+#contact-form {
+    margin-top: 20px;
+}
+
+.form-row {
+    margin-top: 20px;
+}
+
+.send-message-btn {
+    margin-top: 30px;
+    background-color: #3865AB !important;
+    border: 3px solid #1E3557 !important;
+    text-transform: uppercase !important;
+    font-weight: 600 !important;
+    color: white !important;
+}
+
+.send-message-btn:hover {
+    background-color: #4174c7 !important;
+}
+
+#contact-form {
+    margin-top: 20px;
+    margin-bottom: 0em !important;
+}
+
+.copyright {
+    margin-top: 1em;
+}
+
+#form-loader-div {
+    margin-top: 30px !important;
+}
